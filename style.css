@@ -1,0 +1,34 @@
+.heading{
+    width: 100%;
+    text-align: center;
+   
+}
+
+.heading h1{
+    font-family: 'Kalam', cursive;
+    font-family: 'VT323', monospace;
+    display: inline;
+    font-size: 70px;
+}
+
+.heading button{
+    font-family: 'Kalam', cursive;
+    font-family: 'VT323', monospace;
+    float: right;
+    border: 1px solid black;
+}
+
+
+.huge_image{
+    width: 100%;
+}
+
+#playbtn{
+    font-family: 'Kalam', cursive;
+    font-family: 'VT323', monospace; 
+}
+
+#buttonoflife{
+    font-family: 'Kalam', cursive;
+    font-family: 'VT323', monospace;
+}
